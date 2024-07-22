@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/oshani-code](https://github.com/oshani-code)
 
-- 📝 I regularly write articles on [https://medium.com/@ossharma1703](https://medium.com/@ossharma1703)
+- 📝 Explore articles on [https://medium.com/@ossharma1703](https://medium.com/@ossharma1703)
 
 - 💬 Ask me about **react**
 
