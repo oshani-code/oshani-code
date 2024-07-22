@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshani-code&label=Profile%20views&color=0e75b6&style=flat" alt="oshani-code" /> </p>
 
-- 🔭 I’m working learning on **Personal Portfolio and youtube_clone**
+- 🔭 I’m working learning on **Youtube_clone**
 
 - 🌱 I’m currently learning **Firebase,Node.js,Express.js**
 
