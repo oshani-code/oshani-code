@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshani-code&label=Profile%20views&color=0e75b6&style=flat" alt="oshani-code" /> </p>
 
-- 🔭 I’m working learning on **Youtube_clone**
+- 🔭 I’m working learning on **Mern**
 
 - 🌱 I’m currently learning **Firebase,Node.js,Express.js**
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **ossharma1703@gmail.com**
+- 📫 How to reach me **oshsharma1703@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
